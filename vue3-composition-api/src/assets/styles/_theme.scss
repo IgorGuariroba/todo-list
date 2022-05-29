@@ -1,0 +1,19 @@
+$defaultFont: "Open Sans", sans-serif;
+$background: rgba(243, 239, 239, 0.78);
+
+body {
+  font-family: $defaultFont;
+  text-align: center;
+  background: $background;
+}
+ul li{
+  list-style: none;
+}
+
+ul li:hover {
+  background: rgb(170, 170, 168);
+}
+
+i.fas {
+  margin: 0 4px;
+}
